@@ -1,2 +1,2 @@
 # Potifolio
- Portifólio com páginas criadas em HTML e CSS
+ Portifólio com páginas e resposividade criadas em HTML e CSS
